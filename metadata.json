@@ -1,0 +1,7 @@
+{
+  "name": "Plantora AI",
+  "description": "Intelligent Crop Health. Early Detection. Better Decisions. AI-powered crop disease detection, weather risk forecasting, pest intelligence, and multilingual advisory.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
